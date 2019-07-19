@@ -1,4 +1,4 @@
-Web Development courses I have taken:
+Web Development courses/classes I have taken:
 
 * **Web Development path – Codecademy (https://www.codecademy.com/learn/paths/web-development)**
 	* Learn HTML
