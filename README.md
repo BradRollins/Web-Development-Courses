@@ -10,6 +10,12 @@ Web Development courses/classes I have taken:
 	*	Built a complete website with advanced responsive layouts like ( the holy grail layout - the equal columns layout - the 		horizontal masonry layout)
 	*	Created a website which highlights 2 responsive Menus
 
+* **Learn Bootstrap 4: Create Modern Responsive Websites in 2019 - (https://www.udemy.com/course/learn-bootstrap-4-create-modern-									    responsive-websites-in-2019/)**
+	*	Coursework covering responsive design, Bootstrap layout and applying various Bootstrap components
+	*	Lessons included Bootstrap layout grid, colors, navbar, carousel, cards, flexbox in Bootstrap and many other key 			fundamentals
+	*	Created a responsive website using Bootstrap 4
+	
+
 * **Web Development path – Codecademy (https://www.codecademy.com/learn/paths/web-development)**
 	* 	Learn HTML
 	*	Styling a Website (CSS)
