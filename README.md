@@ -1,7 +1,17 @@
 Web Development courses/classes I have taken:
 
+* **Fundamentals of Java with NetBeans - (https://www.udemy.com/course/fundamentals-of-java-with-netbeans/)**
+	*	Basic principles of the Java language to include commands, variables, conditional statements, methods, classes, 			inheritance and visibility modifiers. 
+	
+* **The Complete CSS Flexbox Guide With a Complete Project 2019 - (https://www.udemy.com/course/the-complete-css-flexbox-guide-with-a-								           complete-project/)**
+	*	Learned the fundamentals of CSS flexbox such as understanding containers, main/cross axes, flex flow and wrap proerties
+	*	Learned about controling the alignment of elements utilizing justify content, align items, align self, align content and 		 the order property
+	*	Controlling the sizing of elements using flex grow, flex shrink and flex basis
+	*	Built a complete website with advanced responsive layouts like ( the holy grail layout - the equal columns layout - the 		horizontal masonry layout)
+	*	Created a website which highlights 2 responsive Menus
+
 * **Web Development path – Codecademy (https://www.codecademy.com/learn/paths/web-development)**
-	* Learn HTML
+	* 	Learn HTML
 	*	Styling a Website (CSS)
 	*	Getting Started with JavaScript
 	*	Getting More Advanced with Design (CSS)
