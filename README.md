@@ -1,5 +1,8 @@
 Web Development courses/classes I have taken:
 
+* **Build Two Websites with HTML and CSS - (https://www.udemy.com/course/build-a-resume-website-with-html-and-css/)
+	*	Learned fundamental HTML, CSS and Bootstrap applications. Built two resume portfolio type websites. The first portfolio 	        website utilized HTML and the Bootstrap CSS Framework. The second website was built using an HTML template.
+
 * **Fundamentals of Java with NetBeans - (https://www.udemy.com/course/fundamentals-of-java-with-netbeans/)**
 	*	Basic principles of the Java language to include commands, variables, conditional statements, methods, classes, 			inheritance and visibility modifiers. 
 	
